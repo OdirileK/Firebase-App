@@ -9,14 +9,23 @@ function App() {
     <input 
     name='name'
     type='text'
-    placeholder='Write something'
+    placeholder='Write something ...'
     />
     <button>Go</button>
+
     <h1>This is my second input</h1>
     <input 
     name='name'
     type='text'
-    placeholder='Write something'
+    placeholder='Write something...'
+    />
+    <button>Go</button>
+
+    <h1>This is my third input</h1>
+    <input 
+    name='name'
+    type='text'
+    placeholder='Write something...'
     />
     <button>Go</button>
     </div>
