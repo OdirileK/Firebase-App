@@ -1,15 +1,7 @@
 {
   "projects": {
-    "default": "myapp-96f8b"
-  },
-  "targets": {
-    "myapp-96f8b": {
-      "hosting": {
-        "prod": [
-          "myapp-96f8b-prod"
-        ]
-      }
-    }
-  },
-  "etags": {}
+    "default": "myapp-96f8b",
+    "prod": "prod-site"
+  }
+ 
 }
