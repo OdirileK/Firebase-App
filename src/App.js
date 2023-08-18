@@ -20,7 +20,7 @@ function App() {
 
         <h1>This is my third input</h1>
         <input name="name" type="text" placeholder="Write something..." />
-        <button style={{backgroundColor: 'blue'}}>Go</button>
+        <button style={{backgroundColor: 'pink'}}>Go</button>
       </div>
     </div>
   );
