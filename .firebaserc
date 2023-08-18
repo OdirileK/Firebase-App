@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "myapp-96f8b",
-    "prod": "myapp-96f8b"
+    "default": "myapp-96f8b"
+    
   }
 }
 
