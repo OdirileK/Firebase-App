@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+    <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', padding: '16%'}}>
 <div >
     <h1>This is my input</h1>
     <input 
