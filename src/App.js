@@ -3,7 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div >
+    <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+<div >
     <h1>This is my input</h1>
     <input 
     name='name'
@@ -11,7 +12,16 @@ function App() {
     placeholder='Write something'
     />
     <button>Go</button>
+    <h1>This is my second input</h1>
+    <input 
+    name='name'
+    type='text'
+    placeholder='Write something'
+    />
+    <button>Go</button>
     </div>
+    </div>
+    
   );
 }
 
