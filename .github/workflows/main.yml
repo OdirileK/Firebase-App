@@ -42,6 +42,6 @@ jobs:
           fi
 
           # Deploy your application to specified Hosting Channel
-          firebase hosting:channel:deploy "$CHANNEL" --token "$FIREBASE_TOKEN"
+          firebase hosting:channel:deploy "$prod" --token "$FIREBASE_TOKEN"
         env: 
           FIREBASE_TOKEN: ${{secrets.FIREBASE_TOKEN}}
